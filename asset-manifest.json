@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-react-demo/static/css/main.127124cc.chunk.css",
+    "main.js": "/money-react-demo/static/js/main.b811ffbb.chunk.js",
+    "main.js.map": "/money-react-demo/static/js/main.b811ffbb.chunk.js.map",
+    "runtime-main.js": "/money-react-demo/static/js/runtime-main.fc1dd156.js",
+    "runtime-main.js.map": "/money-react-demo/static/js/runtime-main.fc1dd156.js.map",
+    "static/js/2.22e8b61f.chunk.js": "/money-react-demo/static/js/2.22e8b61f.chunk.js",
+    "static/js/2.22e8b61f.chunk.js.map": "/money-react-demo/static/js/2.22e8b61f.chunk.js.map",
+    "index.html": "/money-react-demo/index.html",
+    "precache-manifest.4b4143e8b1d905401fef1070efdb9d8f.js": "/money-react-demo/precache-manifest.4b4143e8b1d905401fef1070efdb9d8f.js",
+    "service-worker.js": "/money-react-demo/service-worker.js",
+    "static/css/main.127124cc.chunk.css.map": "/money-react-demo/static/css/main.127124cc.chunk.css.map",
+    "static/js/2.22e8b61f.chunk.js.LICENSE.txt": "/money-react-demo/static/js/2.22e8b61f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1dd156.js",
+    "static/js/2.22e8b61f.chunk.js",
+    "static/css/main.127124cc.chunk.css",
+    "static/js/main.b811ffbb.chunk.js"
+  ]
+}
